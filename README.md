@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciano.</h1>
-<h3 align="center">A passionate Junior Web Developer & Graphic Designer from Argentina</h3>
+<h3 align="center">A passionate Front End Developer & Graphic Designer from Argentina</h3>
 
 - 🌱 I’m currently learning **Django and React**
 
